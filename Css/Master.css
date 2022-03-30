@@ -11,20 +11,20 @@ body {
 
 .text {
     font-size: 17;
-    color: #A38D6D;
+    color: #A38D6D !important;
 }
 
 .text h1 {
-    color: #dfcf99;
+    color: #dfcf99 !important;
     font-size: 18;
 }
 
 .text h1:hover {
-    color: azure;
+    color: azure !important;
 }
 
 .text a:hover {
-    color: azure;
+    color: azure !important;
 }
 
 .navColors {
