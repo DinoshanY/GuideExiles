@@ -1,0 +1,33 @@
+#Character,
+#First-Battle,
+#Gems,
+#Items,
+#Gear,
+#Defanse,
+#Chapters,
+#Trading,
+#Commands {
+    padding: 1%;
+    font-size: 20;
+    text-align: center;
+}
+
+.xxx p,
+a,
+h1 {
+    padding-left: 1%;
+    text-align: left;
+}
+
+.xxx {
+    margin: 0 auto;
+    background-color: #0E0E0E;
+    display: block;
+    color: #dfcf99;
+    height: 30%;
+    font-size: 20;
+    border-left: 2px solid #2C2C2C;
+    border-right: 2px solid #2C2C2C;
+    border-bottom: 2px solid #2C2C2C;
+    z-index: 2;
+}

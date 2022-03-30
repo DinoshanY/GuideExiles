@@ -1,0 +1,23 @@
+.why {
+  color: #a38d6d !important;
+}
+
+.why:hover {
+  color: #dfcf99 !important;
+}
+
+.blank {
+  background-color: #0e0e0e !important;
+}
+
+.bbb {
+  background-color: #a38d6d !important;
+}
+
+.bbb:hover{
+  background-color: #dfcf99 !important;
+}
+
+.endddd{
+  border-bottom: 2px solid #2c2c2c;
+}
