@@ -16,17 +16,10 @@
 .PathImages {
   display: flex;
   flex-direction: column;
+  object-fit: cover;
 }
 
 .AllAtributes {
   color: rgb(177, 177, 177) !important;
   text-decoration: none;
-}
-
-.test{
-  max-width: 100%;
-}
-
-img{
-  height: auto !important;
 }
