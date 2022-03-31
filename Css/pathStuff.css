@@ -22,3 +22,8 @@
   color: rgb(177, 177, 177) !important;
   text-decoration: none;
 }
+
+.test{
+  max-width: 100%;
+  height: 100%;
+}
