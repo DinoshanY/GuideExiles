@@ -1,14 +1,25 @@
-.Strength{
-    color: rgb(255, 51, 0) !important;
-    text-decoration: none;
+.Strength {
+  color: rgb(255, 51, 0) !important;
+  text-decoration: none;
 }
 
-.Dexterity{
-    color: rgb(8, 214, 8) !important;
-    text-decoration: none;
+.Intelligence {
+  color: rgb(0, 80, 252) !important;
+  text-decoration: none;
 }
 
-.Intelligence{
-    color: rgb(55, 0, 252) !important;
-    text-decoration: none;
+.Dexterity {
+  color: rgb(8, 214, 8) !important;
+  text-decoration: none;
+}
+
+.PathImages {
+  display: flex;
+  flex-direction: column;
+}
+
+.AllAtributes {
+  background: -webkit-linear-gradient(0deg, rgb(255, 51, 0) 1%, rgb(0, 80, 252) 40% 50%, rgb(8, 214, 8) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
