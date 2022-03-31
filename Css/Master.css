@@ -10,18 +10,15 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   min-height: 100vh;
-  text-align: center;
   opacity: 0.94;
 }
 
 .text {
-  font-size: 17;
   color: #a38d6d !important;
 }
 
 .text h1 {
   color: #dfcf99 !important;
-  font-size: 18;
 }
 
 .text h1:hover {

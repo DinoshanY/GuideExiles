@@ -1,33 +1,32 @@
-#Character,
-#First-Battle,
+.guides {
+  padding-left: 1%;
+  margin: 0 auto;
+  background-color: #0e0e0e;
+  display: block;
+  color: #dfcf99;
+  height: auto;
+  font-size: 20;
+  border-left: 2px solid #2c2c2c;
+  border-right: 2px solid #2c2c2c;
+  border-bottom: 2px solid #2c2c2c;
+  z-index: 2;
+}
+
+.guides p {
+  text-align: left;
+}
+
+#Class,
+#Start-Playing,
 #Gems,
+#Passives,
+#Quest,
 #Items,
 #Gear,
-#Defanse,
+#Defense,
 #Chapters,
 #Trading,
 #Commands {
-    padding: 1%;
-    font-size: 20;
-    text-align: center;
-}
-
-.guides p,
-a,
-h1 {
-    padding-left: 1%;
-    text-align: left;
-}
-
-.guides {
-    margin: 0 auto;
-    background-color: #0E0E0E;
-    display: block;
-    color: #dfcf99;
-    height: auto;
-    font-size: 20;
-    border-left: 2px solid #2C2C2C;
-    border-right: 2px solid #2C2C2C;
-    border-bottom: 2px solid #2C2C2C;
-    z-index: 2;
+  display: block;
+  text-align: center !important;
 }
