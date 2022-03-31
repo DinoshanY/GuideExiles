@@ -49,6 +49,10 @@ body {
   border-bottom: 2px solid #2c2c2c;
 }
 
+.rightBorders{
+  border-right: 2px solid #2c2c2c;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
