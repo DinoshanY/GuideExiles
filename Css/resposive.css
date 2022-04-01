@@ -3,12 +3,6 @@
     width: 100%;
   }
   
-  [class*="tetet"] {
-    width: 100%;
-  display: flex;
-  align-self: flex-start;
-  }
-  
   @media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-s-1 {width: 8.33%;}

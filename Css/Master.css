@@ -21,6 +21,17 @@ body {
   color: #dfcf99 !important;
 }
 
+.link {
+  color: #dfcf99 !important;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #ffffff !important;
+}
+
+
+
 .text h1:hover {
   color: azure !important;
 }
