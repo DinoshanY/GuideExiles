@@ -19,7 +19,9 @@
 }
 
 .PathImages {
-  height: auto;
-  word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 100%;
 }
 
