@@ -13,13 +13,14 @@
   text-decoration: none;
 }
 
-.PathImages {
-  display: flex;
-  flex-direction: column;
-  object-fit: cover;
-}
-
 .AllAtributes {
   color: rgb(177, 177, 177) !important;
   text-decoration: none;
 }
+
+.PathImages {
+  max-width: 100%;
+  height: auto;
+  word-wrap: break-word;
+}
+
