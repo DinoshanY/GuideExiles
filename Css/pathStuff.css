@@ -25,3 +25,22 @@
   border: 1px solid #2c2c2c;
 }
 
+.Common{
+color: rgb(219, 217, 217);
+text-decoration: none;
+}
+
+.Magic{
+color: rgb(138, 111, 255);
+text-decoration: none;
+}
+
+.Rare{
+color: rgb(247, 206, 94);
+text-decoration: none;
+}
+
+.Uniqe{
+color: rgb(233, 121, 17);
+text-decoration: none;
+}
