@@ -14,7 +14,7 @@ body {
 }
 
 .text {
-  color: #a38d6d !important;
+  color: #dfcf99 !important;
 }
 
 .text h1 {
@@ -22,7 +22,7 @@ body {
 }
 
 .link {
-  color: #dfcf99 !important;
+  color: #ffe58e !important;
   text-decoration: none;
 }
 
@@ -35,11 +35,11 @@ body {
 }
 
 .navColors {
-  color: #a38d6d !important;
+  color: #dfcf99 !important;
 }
 
 .navColors:hover {
-  color: #dfcf99 !important;
+  color: azure !important;
 }
 
 .guideGrey {
@@ -47,11 +47,11 @@ body {
 }
 
 .resButton {
-  background-color: #a38d6d !important;
+  background-color: #dfcf99 !important;
 }
 
 .resButton:hover {
-  background-color: #dfcf99 !important;
+  background-color: azure !important;
 }
 
 .bottomBorders {
@@ -71,12 +71,12 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #a38d6d;
+  background: #dfcf99;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #dfcf99;
+  background: azure;
 }
 
 .backgroundChpaters {
