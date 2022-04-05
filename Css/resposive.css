@@ -2,6 +2,11 @@
 [class*="col-"] {
     width: 100%;
   }
+
+  /* For mobile phones: */
+[class*="colImg-"] {
+  width: 50%;
+}
   
   @media only screen and (min-width: 900px) {
     /* For tablets: */
