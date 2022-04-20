@@ -13,27 +13,6 @@ body {
   opacity: 0.94;
 }
 
-.text {
-  color: #dfcf99 !important;
-}
-
-.text h1 {
-  color: #dfcf99 !important;
-}
-
-.link {
-  color: #ffe58e !important;
-  text-decoration: none;
-}
-
-.link:hover {
-  color: #ffffff !important;
-}
-
-.text h1:hover {
-  color: azure !important;
-}
-
 .navColors {
   color: #dfcf99 !important;
 }

@@ -23,7 +23,7 @@
 #Passives,
 #Quest,
 #Ranks,
-#Defense,
+#Defences,
 #Damage,
 #Acts,
 #Maps,
@@ -35,4 +35,29 @@
 #Commands {
   display: block;
   text-align: center !important;
+}
+
+.text {
+  color: #dfcf99 !important;
+}
+
+.text h1 {
+  color: #dfcf99 !important;
+}
+
+.link {
+  color: #ffe58e !important;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #ffffff !important;
+}
+
+.text h1:hover {
+  color: azure !important;
+}
+
+.textBold {
+  color: azure !important;
 }

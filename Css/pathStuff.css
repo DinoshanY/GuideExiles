@@ -45,3 +45,23 @@ text-decoration: none;
 color: rgb(233, 121, 17);
 text-decoration: none;
 }
+
+.Ward{
+  color: rgb(255, 187, 0);
+  text-decoration: none;
+}
+
+.Chaos{
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.Energy {
+  color: rgb(0, 151, 252) !important;
+  text-decoration: none;
+}
+
+.Gems {
+  color: rgb(0, 181, 252) !important;
+  text-decoration: none;
+}
