@@ -75,3 +75,8 @@ text-decoration: none;
   color: rgb(165, 0, 0) !important;
   text-decoration: none;
 }
+
+.corrupted {
+  color: rgb(165, 0, 0) !important;
+  text-decoration: none;
+}
