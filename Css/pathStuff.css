@@ -80,3 +80,10 @@ text-decoration: none;
   color: rgb(165, 0, 0) !important;
   text-decoration: none;
 }
+
+.PathImagesSmall {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  margin: 0 auto;
+}
