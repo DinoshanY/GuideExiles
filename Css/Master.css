@@ -70,25 +70,30 @@ body {
     url(/Images/Campaign/ch8.PNG) no-repeat 0% 28%,
     url(/Images/Campaign/ch9.PNG) no-repeat 0% 32%,
     url(/Images/Campaign/ch10.PNG) no-repeat 0% 36%,
-    url(/Images/Campaign/ch9.PNG) no-repeat 0% 40%,
-    url(/Images/Campaign/ch8.PNG) no-repeat 0% 44%,
-    url(/Images/Campaign/ch7.PNG) no-repeat 0% 48%,
-    url(/Images/Campaign/ch6.PNG) no-repeat 0% 52%,
+    url(/Images/Campaign/ch1.PNG) no-repeat 0% 40%,
+    url(/Images/Campaign/ch2.PNG) no-repeat 0% 44%,
+    url(/Images/Campaign/ch3.PNG) no-repeat 0% 48%,
+    url(/Images/Campaign/ch4.PNG) no-repeat 0% 52%,
     url(/Images/Campaign/ch5.PNG) no-repeat 0% 56%,
-    url(/Images/Campaign/ch4.PNG) no-repeat 0% 60%,
-    url(/Images/Campaign/ch3.PNG) no-repeat 0% 64%,
-    url(/Images/Campaign/ch2.PNG) no-repeat 0% 68%,
-    url(/Images/Campaign/ch1.PNG) no-repeat 0% 72%,
-    url(/Images/Campaign/ch2.PNG) no-repeat 0% 76%,
-    url(/Images/Campaign/ch3.PNG) no-repeat 0% 80%,
-    url(/Images/Campaign/ch4.PNG) no-repeat 0% 84%,
-    url(/Images/Campaign/ch5.PNG) no-repeat 0% 88%,
-    url(/Images/Campaign/ch6.PNG) no-repeat 0% 92%,
-    url(/Images/Campaign/ch7.PNG) no-repeat 0% 96%,
-    url(/Images/Campaign/ch8.PNG) no-repeat 0% 100%;
+    url(/Images/Campaign/ch6.PNG) no-repeat 0% 60%,
+    url(/Images/Campaign/ch7.PNG) no-repeat 0% 64%,
+    url(/Images/Campaign/ch8.PNG) no-repeat 0% 68%,
+    url(/Images/Campaign/ch9.PNG) no-repeat 0% 72%,
+    url(/Images/Campaign/ch10.PNG) no-repeat 0% 76%,
+    url(/Images/Campaign/ch1.PNG) no-repeat 0% 80%,
+    url(/Images/Campaign/ch2.PNG) no-repeat 0% 84%,
+    url(/Images/Campaign/ch3.PNG) no-repeat 0% 88%,
+    url(/Images/Campaign/ch4.PNG) no-repeat 0% 92%,
+    url(/Images/Campaign/ch5.PNG) no-repeat 0% 96%,
+    url(/Images/Campaign/ch6.PNG) no-repeat 0% 100%;
   background-size: contain;
 }
 
 html{
   scroll-padding-top: 59px;
+}
+
+::selection {
+  background-color: #ffffff;
+  color: rgb(255, 0, 0);
 }
